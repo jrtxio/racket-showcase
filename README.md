@@ -1,7 +1,7 @@
 # 2048
 2048 game
 
-# check-covid-19
+# covcheck
 check covid-19 code in racket
 
 # codewars
