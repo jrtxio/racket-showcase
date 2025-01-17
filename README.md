@@ -40,6 +40,9 @@ factorial and fibonacci in recursion
 # webs-tutorial
 web development in racket
 
+# scheme-mind
+scheme syntax xmind
+
 # ydiff
 diff two files in racket
 
