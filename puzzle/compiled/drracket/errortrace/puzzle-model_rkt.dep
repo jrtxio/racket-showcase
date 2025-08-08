@@ -1,1 +1,0 @@
-("8.9" ta6le ("03fb0ddd022db7cb081c746a6e2f8f3c64da52ad" . "541ef3931b5aad39805d3898d8ccfb4d9ac5f5e0") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

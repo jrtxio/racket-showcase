@@ -1,50 +1,16 @@
-# 2048
-2048 game
+# racket showcase
 
-# covcheck
-check covid-19 code in racket
+## algo-showcase
+Some algorithms written in Racket
 
-# codewars
-codewars solution in racket
+## apps-showcase
+Some apps written in Racket
 
-# hello-algo
-hello-algo books code in racket
+## scribble-showcase
+Some examples of Scribble documentation
 
-# http-webs
-http webs in racket
+## snippets-showcase
+Some useful code snippets
 
-# imgbox
-crop image to box
-
-# interpreters
-interpreters in racket by yinwang
-
-# jrtx-studio
-my web studio code in racket
-
-# leetcode
-leetcode solution in racket
-
-# quick
-Quick: An Introduction to Racket with Pictures
-
-# racket-book
-Racket Book
-
-# racket-weekend
-racket-weekend books code in racket
-
-# recursive
-factorial and fibonacci in recursion
-
-# webs-tutorial
-web development in racket
-
-# scheme-mind
-scheme syntax xmind
-
-# ydiff
-diff two files in racket
-
-# puzzle
-puzzle in racket
+## syntax-showcase
+Some code related to Racket syntax
