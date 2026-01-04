@@ -1,0 +1,16 @@
+#lang info
+
+(define name "snake-game")
+(define version "1.0")
+(define collection "snake-game")
+(define deps '(("base" "6.8")
+               ("racket/gui" "6.8")))
+(define build-deps '())
+(define scribblings '())
+(define doc-from-scribblings '())
+(define compile-omit-paths '())
+(define test-omit-paths '())
+(define pkg-desc "A classic Snake game implemented in Racket")
+(define pkg-authors '("Unknown"))
+(define homepage "")
+(define license '(MIT))
