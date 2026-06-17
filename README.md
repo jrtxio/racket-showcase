@@ -1,8 +1,7 @@
 # Racket Showcase
 
-![Language](https://img.shields.io/badge/language-Racket-red)
+![Language](https://img.shields.io/badge/language-Racket-red)  [![English](https://img.shields.io/badge/lang-English-blue)](README.md) [![中文](https://img.shields.io/badge/lang-中文-red)](README.zh-CN.md)
 
-[English](README.md) | [中文](README.zh-CN.md)
 
 A collection of Racket code examples covering algorithms, applications, Scribble documentation, utility snippets, and language features.
 
