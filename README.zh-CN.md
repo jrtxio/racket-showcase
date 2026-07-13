@@ -1,8 +1,10 @@
 # Racket Showcase
 
-[English](README.md) | [中文](README.zh-CN.md)
-
 Racket 代码示例合集，涵盖算法、应用程序、Scribble 文档、实用代码片段和语言特性。
+
+![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white)
+
+[English](README.md) · **中文**
 
 ## 目录
 
@@ -10,9 +12,9 @@ Racket 代码示例合集，涵盖算法、应用程序、Scribble 文档、实�
 
 Racket 算法实现，按来源分类：
 
-- **codewars** — Codewars 挑战题解
-- **hello-algo** — 《Hello 算法》中的实现
-- **leetcode** — LeetCode 题解
+- **codewars** —— Codewars 挑战题解
+- **hello-algo** —— 《Hello 算法》中的实现
+- **leetcode** —— LeetCode 题解
 
 ### app-showcase
 
@@ -28,7 +30,7 @@ Racket 算法实现，按来源分类：
 | `icon-viewer` | 系统图标查看器 |
 | `imgbox` | 图片处理工具 |
 | `interpreters` | 编程语言解释器 |
-| `lcfu` | Let's Code For Understanding — 教学示例 |
+| `lcfu` | Let's Code For Understanding —— 教学示例 |
 | `puzzle` | 采用 MVC 架构的拼图游戏 |
 | `snake` | 经典贪吃蛇游戏 |
 | `text-viewer` | 文本文件查看器 |
@@ -39,14 +41,14 @@ Racket 算法实现，按来源分类：
 
 使用 [Scribble](https://docs.racket-lang.org/scribble/)（Racket 文档系统）的示例：
 
-- **racket-book** — 结构化的 Racket 书籍项目，包含入门、基础、实用编程和高级主题等章节
+- **racket-book** —— 结构化的 Racket 书籍项目，包含入门、基础、实用编程和高级主题等章节
 
 ### snippet-showcase
 
 独立的实用代码片段：
 
-- **json** — JSON 配置解析（`json.rkt`、`config.json`）
-- **tcp** — TCP 客户端和服务端示例（`tcp-client.rkt`、`tcp-server.rkt`）
+- **json** —— JSON 配置解析（`json.rkt`、`config.json`）
+- **tcp** —— TCP 客户端和服务端示例（`tcp-client.rkt`、`tcp-server.rkt`）
 
 ### syntax-showcase
 
@@ -77,3 +79,7 @@ Scribble 文档：
 ```bash
 scribble --html path/to/document.scrbl
 ```
+
+## 许可证
+
+本项目暂未包含许可证文件。
