@@ -2,11 +2,19 @@
 
 A collection of Racket code examples covering algorithms, applications, Scribble documentation, utility snippets, and language features.
 
-![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 **English** · [中文](README.zh-CN.md)
 
-## Sections
+## Categories
+
+| Category | Description | Tech |
+|----------|-------------|------|
+| `algo-showcase` | Algorithm implementations by source | Racket |
+| `app-showcase` | Complete applications built with Racket | Racket, `racket/gui`, web server |
+| `scribble-showcase` | Documentation using Scribble | Scribble |
+| `snippet-showcase` | Standalone utility snippets | Racket |
+| `syntax-showcase` | Racket language feature explorations | Racket |
 
 ### algo-showcase
 
@@ -63,10 +71,22 @@ Racket language feature explorations:
 
 ## Requirements
 
-- [Racket](https://racket-lang.org/) 7.0 or later
-- Some apps may require additional packages (check individual directories)
+| Dependency | Purpose / Version |
+|------------|-------------------|
+| [Racket](https://racket-lang.org/) | 7.0 or later |
+
+Some apps may require additional packages (check individual directories).
 
 ## Usage
+
+### 1. Clone
+
+```bash
+git clone https://github.com/turinglambdaai/racket-showcase.git
+cd racket-showcase
+```
+
+### 2. Run an example
 
 Open any `.rkt` file in DrRacket and click **Run**, or run from the command line:
 
@@ -82,4 +102,4 @@ scribble --html path/to/document.scrbl
 
 ## License
 
-This project does not currently include a license file.
+Licensed under the [MIT License](LICENSE).
