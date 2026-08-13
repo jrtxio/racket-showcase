@@ -11,6 +11,6 @@
 (define compile-omit-paths '())
 (define test-omit-paths '())
 (define pkg-desc "A classic Snake game implemented in Racket")
-(define pkg-authors '("jrtxio"))
+(define pkg-authors '("turinglambdaai"))
 (define homepage "")
 (define license '(MIT))
